@@ -1,1 +1,5 @@
+com\crunchify\model\Input.class
+com\crunchify\model\Out.class
 com\crunchify\controller\CrunchifyHelloWorld.class
+com\crunchify\model\PrevOut.class
+com\crunchify\model\UnconfirmedTransaction.class
